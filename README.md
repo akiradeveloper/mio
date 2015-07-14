@@ -1,5 +1,5 @@
 # Mio
-Mirror IO test tool is Rust.
+Mirror IO test tool in Rust.
 
 # Principle
 
