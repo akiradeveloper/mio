@@ -1,5 +1,5 @@
 # Mio
-Mirror IO test tool in Rust.
+Mirror IO test tool in Haskell.
 
 # Principle
 
